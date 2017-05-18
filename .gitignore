@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.settings
+/maya_mods/Toonkit_module
+
+# system Files
+*.DS_Store
+Thumbs.db
